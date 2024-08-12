@@ -1,0 +1,41 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "add aproduct",
+    "collectionId": "8c7783f5-536a-47db-b15c-291ea61f4f1a",
+    "dateExported": "2024-08-12T12:41:57.005Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "642e811f-b55e-4430-a3eb-8b36c0248c1c",
+            "colId": "8c7783f5-536a-47db-b15c-291ea61f4f1a",
+            "containerId": "",
+            "name": "add product",
+            "url": "http://localhost:3000/api/products",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2024-08-12T11:07:44.215Z",
+            "modified": "2024-08-12T12:29:22.606Z",
+            "headers": [],
+            "body": {
+                "type": "formencoded",
+                "raw": "",
+                "form": [
+                    {
+                        "name": "name",
+                        "value": "ghbvjhgb"
+                    },
+                    {
+                        "name": "quantity",
+                        "value": "5"
+                    },
+                    {
+                        "name": "price",
+                        "value": "15"
+                    }
+                ]
+            }
+        }
+    ],
+    "ref": "FCdzdGT0y3whkCnhurJNZM5hqH2PkXCZb8b61i2w2p8u4hPanRCKmIQ_yyIX9gQozN-orShteWxBIv1snS-Ypg"
+}

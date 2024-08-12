@@ -1,0 +1,23 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "get all products",
+    "collectionId": "733b8adc-8f02-4ea8-aa73-0c9901558075",
+    "dateExported": "2024-08-12T12:42:28.512Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "5d1c02e2-ab41-413b-8154-2809650e526c",
+            "colId": "733b8adc-8f02-4ea8-aa73-0c9901558075",
+            "containerId": "",
+            "name": "allproducts",
+            "url": "http://localhost:3000/api/products",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-08-12T11:16:10.264Z",
+            "modified": "2024-08-12T11:16:23.787Z",
+            "headers": []
+        }
+    ],
+    "ref": "B8Er3ScSmnaEQrBaKZ9uL81vkOcVSFW1EGjc1KX3wpHM_QeB90mTxYT-MN2PGZSbyfcXDBpRmLq4su1IqgZSAQ"
+}

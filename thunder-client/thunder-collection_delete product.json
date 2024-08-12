@@ -1,0 +1,23 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "delete product",
+    "collectionId": "854adbd0-54d8-487b-8e5f-cdd1d59e51ef",
+    "dateExported": "2024-08-12T12:42:47.812Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "82115739-6023-4a26-8f4a-7c6ba03d62f0",
+            "colId": "854adbd0-54d8-487b-8e5f-cdd1d59e51ef",
+            "containerId": "",
+            "name": "delete product",
+            "url": "http://localhost:3000/api/products/66ba0022c9dc1cc8ba2b2a57",
+            "method": "DELETE",
+            "sortNum": 10000,
+            "created": "2024-08-12T11:36:30.288Z",
+            "modified": "2024-08-12T12:41:21.110Z",
+            "headers": []
+        }
+    ],
+    "ref": "jWJyngNGkYUlwelL_jiQeXKRUczcKOTwPL6W_C-gqyaWiDK3y95wT5rRKXzKOCygMPQsAVmxz4BkGsLCUNA-CA"
+}

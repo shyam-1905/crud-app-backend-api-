@@ -1,0 +1,28 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "update product",
+    "collectionId": "bbcf0604-5008-4b21-b58e-d4e902a5986e",
+    "dateExported": "2024-08-12T12:42:43.439Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "77cf46b0-f4c6-40c1-bd63-3591db02fdd8",
+            "colId": "bbcf0604-5008-4b21-b58e-d4e902a5986e",
+            "containerId": "",
+            "name": "update product",
+            "url": "http://localhost:3000/api/products/66b9ef8416b85dc8d419ace6",
+            "method": "PUT",
+            "sortNum": 10000,
+            "created": "2024-08-12T11:30:38.394Z",
+            "modified": "2024-08-12T12:26:54.240Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"name\":\"update (using Put) something\",\n  \"quantity\":2,\n  \"price\":18.25\n}",
+                "form": []
+            }
+        }
+    ],
+    "ref": "Q6umxgFX_nWzbgruLGnn8CZcRUwKalv8Mb98qKrE5J7ZJYSPctlyUF-CN0U6p2yfODxC_Vhntv-AzJweypF0vA"
+}
